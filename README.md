@@ -26,7 +26,7 @@
 
 1. Absolute loaders
     > [Input File](./miscellaneous/absolute_input.txt)<br/>
-    > [Output File]('./miscellaneous/absolute_output.txt)
+    > [Output File](./miscellaneous/absolute_output.txt)
 
 2. Relative/Relocation loaders
     > [Input File](./miscellaneous/relocation_input.txt)<br/>
